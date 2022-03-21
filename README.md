@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @msi117
+- 👋 Hi, I’m Sameer
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning React framework
 - 💞️ I’m looking to collaborate on small scale web apps
