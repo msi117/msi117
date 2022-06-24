@@ -25,6 +25,8 @@
 </details>
 
 ### Recent React.js projects 👨🏻‍💻
+[Landing Page](https://gpt3-e9g4rrts4-msi117.vercel.app/)
+
 [URL Shortening App](https://url-shortening-api-landing-page-2b2b6gjsg-msi117.vercel.app/)
 
 [Github finder App](https://github-finder-using-react.vercel.app/)
