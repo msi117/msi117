@@ -1,4 +1,4 @@
-## Hi there, I'm Sameer - aka [Mir][twitter] 👋
+## Hi there, I'm Sameer👋
 
 ### I'm a Front-end Developer
 
