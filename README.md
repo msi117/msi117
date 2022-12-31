@@ -1,30 +1,41 @@
-## Hi there, I'm Sameer👋
 
-### I'm a Front-end Developer
+<h1 align="center">Hi 👋, I'm <a href="#" target="blank">
+Sameer</a></h1>
+<h3 align="center">A  Full Stack developer from Hyderabad India &#127470;&#127475</h3>
 
-- 🔭 Check out some of my works on [Github]
+<p align="left"> <a href="https://twitter.com/mirsameer_" target="blank"><img src="https://img.shields.io/twitter/follow/mirsameer_?logo=twitter&style=for-the-badge" alt="mirsameer_" /></a> </p>
 
-- 🌱 I’m currently learning everything 🤣
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-- 👯 I’m looking to collaborate with other React Developers
+- 🌱 I’m currently Working on web-development (**React**)
+-  👯 Looking forward to collaborate with other React Developers
+- 🤝 I’m available for freelancing.
+- 🌱 I’m currently learning Python
+-  💀  mostly working on  **private repositories**
+- 💬 Ask me about **Reactjs & Node**
 
-- 🥅 2022 Goals: Learn more about Backend development and web3
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-  
+<p align="center">
 
-### Connect with me:
-[Twitter](https://twitter.com/mirsameer_)
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mirsameerirfan/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/msi117">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/mirsameerirfan">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/mirsameer_">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+      </div>
 
+</p>
+<!-- BLOG-POST-LIST:START -->
 
-  
- <details>
-  <summary> GitHub Stats</summary>
-
-  <img align="left" alt="Mir Sameer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=msi117&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-### Recent React.js projects 👨🏻‍💻
+### 👨🏻‍💻 Recent projects using React 
 [Landing Page](https://gpt3-e9g4rrts4-msi117.vercel.app/)
 
 [URL Shortening App](https://url-shortening-api-landing-page-two.vercel.app/)
@@ -32,11 +43,6 @@
 [Github finder App](https://github-finder-using-react.vercel.app/)
 
 [Countries App](https://countries-api-peach.vercel.app/)
+<!-- BLOG-POST-LIST:END -->
 
-  
-
-[github]: https://github.com/msi117
-
-[twitter]: https://twitter.com/mirsameer_
-
-[linkedin]: https://linkedin.com/in/mirsameerirfan
+---
