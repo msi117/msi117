@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm <a href="#" target="blank">
 Sameer</a></h1>
-<h3 align="center">A  Full Stack developer from Ontario Canada &#127470;&#127475</h3>
+<h3 align="center">A  Full Stack developer from Toronto</h3>
 
 <p align="left"> <a href="https://twitter.com/mirsameer_" target="blank"><img src="https://img.shields.io/twitter/follow/mirsameer_?logo=twitter&style=for-the-badge" alt="mirsameer_" /></a> </p>
 
