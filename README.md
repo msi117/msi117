@@ -27,7 +27,7 @@
 ---
 
 ### 👨🏻‍💻 Recent projects using React
-
+- [Nutritionist Landing Page](https://nutritionist-4m7l8riau-msi117.vercel.app/)
 - [Landing Page](https://gpt3-e9g4rrts4-msi117.vercel.app/)
 - [URL Shortening App](https://url-shortening-api-landing-page-two.vercel.app/)
 - [Manage Landing Page](https://manage-landing-page-indol.vercel.app/)
