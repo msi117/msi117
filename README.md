@@ -10,7 +10,7 @@
 - 🤝 Open to freelancing opportunities that leverage my Javascript and web development skills
 - 🌱 Eagerly exploring advanced Python concepts and their application in real-world projects
 - 💀 Often working on exciting **private projects** that challenge my coding prowess
-- 💬 Feel free to hit me up about anything related to **React.js, Node.js, or Python**
+- 💬 Feel free to hit me up about anything related to **React.js, Next.js, Node, or Python**
 
 <br/>
 
